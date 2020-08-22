@@ -18,7 +18,7 @@
 
 ### Matt
 
--
+- Detect the Platform
 
 ### Miguel
 
@@ -32,7 +32,7 @@
 
 ## Unassigned tasks:
 
--   Detect the platform
+
 -   Conditional and flow control commands
 -   Store commands vs. immediate execution of commands.
 -   File read / write
